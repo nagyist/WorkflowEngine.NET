@@ -1,1 +1,1 @@
-Workflow Engine 20.0.5 ASP.NET Core MVC Sample - 06/02/2026
+Workflow Engine 20.0.6 ASP.NET Core MVC Sample - 24/02/2026
